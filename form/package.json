@@ -1,0 +1,14 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "form for IETE",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Saurav Suman",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
