@@ -41,7 +41,7 @@ body {
 }
 
 .section-login-box {
-  width: 30%;
+  width: 450px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -71,14 +71,14 @@ body {
 .section-login-box form label {
   display: block;
   letter-spacing: 1px;
-  color: #464447;
+  color: #4d4b4e;
   font-size: 18px;
 }
 
 .section-login-box form input {
   background-color: transparent;
   border: none;
-  border-bottom: 1px solid #464447;
+  border-bottom: 1px solid #4d4b4e;
   color: #edc34a;
   transition: 0.3s all;
   padding: 7px 0;
@@ -116,12 +116,12 @@ body {
 }
 
 .section-login-box .para {
-  color: #464447;
+  color: #4d4b4e;
 }
 
 .section-login-box .para .link {
   text-decoration: none;
-  color: #464447;
+  color: #4d4b4e;
   transition: 0.3s all;
 }
 

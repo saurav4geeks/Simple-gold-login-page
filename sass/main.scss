@@ -3,7 +3,7 @@ $color-red: #903139;
 $color-white: #ffffff;
 $color-black-light: #151515;
 $color-black-dark: #2e2c2f;
-$color-grey: #464447;
+$color-grey: #4d4b4e;
 
 @font-face {
   font-family: "futura";
@@ -48,7 +48,7 @@ body {
     rgba(46, 44, 47, 1) 100%
   );
   &-box {
-    width: 30%;
+    width: 450px;
     display: flex;
     flex-direction: column;
     justify-content: center;
